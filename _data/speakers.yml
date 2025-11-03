@@ -8,21 +8,21 @@
       title: Prof.
       affiliation: Stanford University
       photo: azalia.jpg
-    - name: Weizhu Chen
-      title: Dr.
-      affiliation: Microsoft
-      photo: Weizhu_Chen.jpg
+    - name: Siva Reddy
+      title: Prof.
+      affiliation: McGill/MILA/ServiceNow
+      photo: siva.jpg
 - num_row: 2
   speakers:
     - name: Yejin Choi
       title: Prof.
       affiliation: Stanford University / Nvidia
       photo: yejin.jpeg
-    - name: Peter Clark
-      title: Dr.
-      affiliation:  Allen Institute for AI
-      photo: peter_clark.jpg
-    - name: Lu Hou
+    - name: Mirco Ravanelli
+      title: Prof.
+      affiliation:  Concordia University
+      photo: mirco.jpg
+    - name: Haoli Bai
       title: Dr.
       affiliation: Huawei Noah's Ark Lab
-      photo: luhou.jpg
+      photo: haoli_bai.jpg
