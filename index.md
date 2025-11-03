@@ -68,10 +68,12 @@ Calendar Invite (add to your calendar): https://calendar.app.google/mTFsmwKUgPmX
 -->
 
 <p>
-The Efficient Natural Language and Speech Processing (ENLSP) Workshop aims to advance the efficiency of large language and speech models across three key dimensions: <b>Model Design</b>, <b>Training</b>, and <b>Inference</b>—with a particular emphasis this year on <b>reasoning capabilities</b> and <b>test-time compute</b>.
+The rapid evolution of large language and speech models has revealed a critical insight: scaling alone no longer guarantees intelligence. As reasoning becomes central to model success, the next frontier for researchers is mastering the art of efficient thinking.
+This workshop aims to advance the efficiency of large language and speech models across the key dimensions: <b>Model Design and Architecture</b>, <b>Training</b>, and <b>Inference</b>—with a particular emphasis this year on <b>reasoning capabilities</b> and <b>test-time compute</b>.
 While enabling models to ``think longer'' has shown promise, they must also <b><i>think smarter</i></b> that requires a stronger focus on efficiency in how models reason and adapt across diverse deployment settings.
-ENLSP brings together academic researchers and industry experts in a dynamic program featuring <i>invited talks</i>, <i>panel discussions</i>, peer-reviewed <i>paper</i> and <i>poster presentations</i>, a <i>demo track</i>, and <i>mentorship sessions</i> for new researchers.
-The workshop provides a unique opportunity to explore emerging challenges in efficient AI, exchange ideas, and foster collaborations to bring together researchers from the machine learning, systems, optimization, theory and applied AI communities.
+
+Our workshop brings together academic researchers and industry experts in a dynamic program featuring <i>invited talks</i>, <i>panel discussions</i>, peer-reviewed <i>paper and poster presentations</i>, a <i>demo track</i>, and <i>mentorship sessions</i> for new researchers.
+The workshop offers a unique space to explore emerging challenges in efficient AI, exchange ideas, and foster collaborations to bring together researchers from the machine learning, systems, optimization, theory and applied AI communities.
 </p>
 
 
@@ -119,9 +121,9 @@ Building on the momentum of previous editions, this year’s workshop continues 
 
 
 <!-- Call for Papers -->
-<h2 class="blackpar_title" id="call_for_papers">Call for Papers</h2>
+<h2 class="blackpar_title" id="call_for_papers and Demos">Call for Papers</h2>
 <p>
-Advancing foundation models requires rethinking efficiency—especially in reasoning and test-time compute. We warmly welcome <strong>all</strong> submissions and contributions, including papers and demos, that address these challenges across the full model lifecycle: architecture, training, inference, and evaluation. Topics include, but are not limited to:
+In sum, advancing large language and speech models requires rethinking efficiency, especially in reasoning and test-time compute. We invite submissions of <b>long (up to 8 pages) or short (up to 4 pages) papers</b> and <b>demos</b> addressing efficiency challenges across the model lifecycle, including architecture, training, inference, and evaluation. <b>Topics of interest include, but are not limited to:</b>
 <br><br>
 <b>Developing and Deploying Efficient Reasoning Language and Speech Models</b> 
 <ul>
@@ -195,9 +197,9 @@ preparing high-quality submissions, addressing questions, and engaging with the 
 
     <h3 style="margin-bottom: 5px;">📅 Add to Your Calendar</h3>
     <ul style="padding-left: 20px; margin-top: 0;">
-      <li><a href="https://calendar.app.google/mTFsmwKUgPmXLaFYA" style="color: #1a73e8;">Mentorship Day 1: July 15, 2025</a></li>
-      <li><a href="https://calendar.app.google/oJtevifEwr9ZXDBD8" style="color: #1a73e8;">Mentorship Day 2: July 29, 2025</a></li>
-      <li><a href="https://calendar.app.google/TMCELHHkTNC5aVCu6" style="color: #1a73e8;">Mentorship Day 3: August 12, 2025</a></li>
+      <li><a href="https://calendar.app.google/mTFsmwKUgPmXLaFYA" style="color: #1a73e8;">Mentorship Day 1: Dec 15, 2025</a></li>
+      <li><a href="https://calendar.app.google/oJtevifEwr9ZXDBD8" style="color: #1a73e8;">Mentorship Day 2: Jan 5, 2026</a></li>
+      <li><a href="https://calendar.app.google/TMCELHHkTNC5aVCu6" style="color: #1a73e8;">Mentorship Day 3: Jan 12, 2026</a></li>
     </ul>
   </div>
 
@@ -214,9 +216,9 @@ preparing high-quality submissions, addressing questions, and engaging with the 
 
     <h3 style="margin-bottom: 5px;">📅 Add to Your Calendar</h3>
     <ul style="padding-left: 20px; margin-top: 0;">
-      <li><a href="https://calendar.app.google/xbu8nMd1nvPAi5Qi8" style="color: #1a73e8;">Mentorship Day 1: July 15, 2025</a></li>
-      <li><a href="https://calendar.app.google/p6B8avKYmjvBZX8D6" style="color: #1a73e8;">Mentorship Day 2: July 29, 2025</a></li>
-      <li><a href="https://calendar.app.google/hUTV96JJ7wMRgjC28" style="color: #1a73e8;">Mentorship Day 3: August 12, 2025</a></li>
+      <li><a href="https://calendar.app.google/xbu8nMd1nvPAi5Qi8" style="color: #1a73e8;">Mentorship Day 1: Dec 15, 2025</a></li>
+      <li><a href="https://calendar.app.google/p6B8avKYmjvBZX8D6" style="color: #1a73e8;">Mentorship Day 2: Jan 5, 2026</a></li>
+      <li><a href="https://calendar.app.google/hUTV96JJ7wMRgjC28" style="color: #1a73e8;">Mentorship Day 3: Jan 12, 2026</a></li>
     </ul>
   </div>
 </div>
@@ -224,14 +226,15 @@ preparing high-quality submissions, addressing questions, and engaging with the 
 <br /> 
 <h2 class="blackpar_title">Paper Submission Instructions</h2>
 <p>
-You are invited to submit your papers in our CMT submission portal <a href="https://cmt3.research.microsoft.com/ENLSP2024">(Link)</a>. All the submitted papers have to be anonymous for double-blind review. We expect each paper will be reviewed by at least three reviewers. The content of the paper (excluding the references and supplementary materials) should not be more than <b>8 pages for Long Papers</b> and <b>4 pages for Short Papers</b>, strictly following the NeurIPS template style <a href= "https://www.overleaf.com/latex/templates/neurips-2024/tpsbbrdqcmsh">(Link)</a>.  
+You are invited to submit your papers in our OpenReview submission portal <a href="https://cmt3.research.microsoft.com/ENLSP2024">(Link)</a>. All submissions must be anonymous for double-blind review and adhere to the ICLR formatting guidelines. Each paper will be reviewed by at least three reviewers. Only original work not previously published at archival venues (e.g., ICLR, NeurIPS, ICML) will be considered, though preprints (e.g., arXiv) are allowed. Authors should clearly indicate all conflicts of interest upon submission. 
+The content of the paper (excluding the references and supplementary materials) should not be more than <b>8 pages for Long Papers</b> and <b>4 pages for Short Papers</b>, strictly following the ICLR template style.  
 <br />
-Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. According to the guideline of the NeurIPS workshops, already published papers are not encouraged for submission, but you are allowed to submit your ArXiv papers. Moreover, a work that is presented at the main NeurIPS conference should not appear in a workshop. Please make sure to indicate the complete list of conflict of interests for all the authors of your paper. To encourage higher quality submissions, our sponsors are offering the <b>Best Paper</b> and the <b>Best Poster</b> Awards to qualified outstanding original oral and poster presentations (upon nomination of the reviewers). Bear in mind that our workshop is not archival, but the accepted papers will be hosted on the workshop website. 
+Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. According to the guideline of the ICLR workshops, already published papers are not encouraged for submission, but you are allowed to submit your ArXiv papers. Moreover, a work that is presented at the main ICLR conference should not appear in a workshop. Please make sure to indicate the complete list of conflict of interests for all the authors of your paper. To encourage higher quality submissions, our sponsors are offering the <b>Best Paper</b> and the <b>Best Poster</b> Awards to qualified outstanding original oral and poster presentations (upon nomination of the reviewers). Bear in mind that our workshop is not archival, but the accepted papers will be hosted on the workshop website. 
 </p>
 
 <h2 class="blackpar_title">Demo Submission Instructions</h2>
 <p>
-You are invited to submit your demo proposals through our CMT submission portal <a href="https://cmt3.research.microsoft.com/ENLSP2024">(Link)</a>. The demo track welcomes submissions showcasing <b>working systems, tools, visualizations, or APIs</b> related to <b>efficient reasoning and test-time compute</b> in NLP and Speech. 
+You are invited to submit your demo proposals through our OpenReview submission portal. The demo track welcomes submissions showcasing <b>working systems, tools, visualizations, or APIs</b> related to <b>efficient reasoning and test-time compute</b> in NLP and Speech. 
 Each submission should include a <b>technical report of up to 2 pages (PDF)</b> that describes the system, motivation, use case, technical approach, and relevance to the workshop topic. 
 To effectively showcase how your demo works, please include at least one of the following (or more if available):
 <ul style="padding-left: 20px;">
@@ -247,10 +250,10 @@ One selected demo will be honored with the <b>Demo Award</b> and a featured <b>l
 <h2 class="blackpar_title">Important Dates</h2>
 <p>
 <ul>
-	<li>Submission Deadline: <b>August 22, 2025, Anywhere on Earth (AOE)</b></li>
-	<li>Acceptance Notification: <b>September 22, 2025 AOE</b></li>
-	<li>Camera-Ready Submission: <b>October 5, 2025 AOE</b> </li>
-	<li>Workshop Date: <b>December 5th or 6th, 2025 </b></li>
+	<li>Submission Deadline: <b>January 30, 2026, Anywhere on Earth (AOE)</b></li>
+	<li>Acceptance Notification: <b>March 1, 2026 AOE</b></li>
+	<li>Camera-Ready Submission: <b>March 20, 2026 AOE</b> </li>
+	<li>Workshop Date: <b>April 26th or 27th, 2026 </b></li>
 </ul>
 </p>
 

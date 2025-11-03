@@ -14,10 +14,10 @@
       photo: Weizhu_Chen.jpg
 - num_row: 2
   speakers:
-    - name: Barbara Plank
+    - name: Yejin Choi
       title: Prof.
-      affiliation: LMU Munich
-      photo: barbara2.jpg
+      affiliation: Stanford University / Nvidia
+      photo: yejin.jpeg
     - name: Peter Clark
       title: Dr.
       affiliation:  Allen Institute for AI
