@@ -7,7 +7,7 @@
 #
 layout: home
 ---
-<img src="/images/banner2025_v3.png" style="pointer-events: none; user-select: none;">
+<img src="/images/ENLSP_ICLR_Logo.png" style="pointer-events: none; user-select: none;">
 
 <!--
 <div style="position: relative; width: 100%;">
